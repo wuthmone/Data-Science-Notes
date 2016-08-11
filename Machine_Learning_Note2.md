@@ -11,3 +11,10 @@ The output vector is y, with elements y<sub>j</sub>, where j runs from 1 to the 
 
 ## Targets  
 The target vector t, with elements t<sub>j</sub>, where j runs from 1 to the number of output dimensions, n, are the extra data that we need for supervised learning, since they provide the ‘correct’ answers that the algorithm is learning about.
+
+##Activation Function
+ For neural networks, g(·) is a mathematical function that describes the firing of the neuron as a response to the weighted inputs, such as the threshold function. 
+
+##Error E
+ A function that computes the inaccuracies of the network as a function of the
+outputs y and targets t.
