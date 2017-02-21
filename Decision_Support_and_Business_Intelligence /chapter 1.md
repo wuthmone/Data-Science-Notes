@@ -28,3 +28,5 @@
 * **Structured Problem** : Highly repetitve tasks or decisions for operational manager.
 * **Semi-structed Problem** : combination of structured and unstructured tasks especially for middle level or tactical managers.
 * **Unstructured Problem** : normally make the decision by stragtic or top level managers
+
+
