@@ -20,4 +20,11 @@
 3. **Choice** : selecting the course of action from among those available.
 4. **Implementation** : adatpting the selected course of action to the decision situation.
 
-![Decision System](ds.png)
+![Steps of Decision Support](ds.png)
+
+####**Decision Support System (DSS)**
+* An interactive computer based system, which help decision makers utilize data and models to solve unstructured and semi-structured problems.
+
+* **Structured Problem** : Highly repetitve tasks or decisions for operational manager.
+* **Semi-structed Problem** : combination of structured and unstructured tasks especially for middle level or tactical managers.
+* **Unstructured Problem** : normally make the decision by stragtic or top level managers
