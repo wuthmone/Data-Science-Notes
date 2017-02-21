@@ -20,5 +20,4 @@
 3. **Choice** : selecting the course of action from among those available.
 4. **Implementation** : adatpting the selected course of action to the decision situation.
 
-![Decision System](/image/ds.png)
-
+![Decision System](~/Decision_Support_and_Business_Intelligence/image/ds.png)
